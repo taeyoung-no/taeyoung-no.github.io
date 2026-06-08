@@ -1,6 +1,6 @@
 ---
 title:  "[Detached Element] no longer a child of this node"
-date:   2026-06-04 20:14:00 +0900
+date:   2026-06-08 20:14:00 +0900
 ---
 ## 서론
 [Todo App](https://github.com/taeyoung-no/todo-app) 프로젝트 진행 중 inline editing을 구현하고 있었습니다. 수정 이모지(✏️)를 클릭하면 특정 요소가 `input` 요소로 교체됩니다. `input` 요소에서 `Enter` 입력 혹은 `blur` 발생 시 다시 원래 요소로 교체합니다.
