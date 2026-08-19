@@ -1,7 +1,6 @@
 ---
 title: "로드 밸런서가 sticky session을 사용해야 했던 이유"
 date: 2026-08-08 12:00:00 +0900
-category: Chat App
 ---
 
 ## 서론
