@@ -33,6 +33,7 @@ SHOW GLOBAL STATUS WHERE Variable_name IN (
 위 명령을 실행해서 디스크 I/O와 read-ahead 횟수를 측정할 수 있습니다. 지연은 부하 테스트로 측정합니다. 10번 측정해서 평균을 기록합니다. 가설과 비교합니다.
 
 ### 첫 번째 실험 결과 및 분석
+
 | | VU | cold | disk I/O | read-ahead | p95 |
 | --- | --- | --- | --- | --- | --- |
 | 인덱스 스캔 50만 | 1 | true | 198 | 3072 | 0.595s |
@@ -65,6 +66,7 @@ SHOW GLOBAL STATUS LIKE 'Innodb_buffer_pool_read_requests';
 
 
 ### 두 번째 실험 결과 및 분석
+
 | | VU | cold | requests | p95 |
 | --- | --- | --- | --- | --- |
 | 인덱스 스캔 50만 | 1 | true | 4.00e7 | 0.595s |
