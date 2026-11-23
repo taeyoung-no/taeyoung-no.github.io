@@ -5,7 +5,7 @@ date: 2026-11-21 10:00:00 +0900
 
 ## 서론
 
-[Coupon System](https://github.com/taeyoung-no/CouponSystem) 프로젝트에서 Redis와 데이터베이스 간 불일치를 보정하기 위해 적용한 방법들에 대해 정리했습니다.
+[Coupon System](https://github.com/taeyoung-no/coupon-system) 프로젝트에서 Redis와 데이터베이스 간 불일치를 보정하기 위해 적용한 방법들에 대해 정리했습니다.
 
 ---
 

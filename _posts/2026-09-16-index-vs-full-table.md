@@ -4,7 +4,7 @@ date: 2026-09-16 10:00:00 +0900
 ---
 
 ## 서론
-[Feed App](https://github.com/taeyoung-no/FeedApp) 프로젝트에서 offset, limit 방식의 페이지네이션을 구현했습니다. 게시글을 100만 개 작성하고 중간과 마지막 페이지 조회의 지연을 측정하고 결과를 분석하며 겪은 시행착오를 정리했습니다.
+[Feed App](https://github.com/taeyoung-no/feed-app) 프로젝트에서 offset, limit 방식의 페이지네이션을 구현했습니다. 게시글을 100만 개 작성하고 중간과 마지막 페이지 조회의 지연을 측정하고 결과를 분석하며 겪은 시행착오를 정리했습니다.
 
 ---
 

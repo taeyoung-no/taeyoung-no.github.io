@@ -5,7 +5,7 @@ date: 2026-11-19 10:00:00 +0900
 
 ## 서론
 
-[Coupon System](https://github.com/taeyoung-no/CouponSystem) 프로젝트에서 트래픽을 제어하기 위해 적용한 방법들에 대해 정리했습니다.
+[Coupon System](https://github.com/taeyoung-no/coupon-system) 프로젝트에서 트래픽을 제어하기 위해 적용한 방법들에 대해 정리했습니다.
 
 ---
 

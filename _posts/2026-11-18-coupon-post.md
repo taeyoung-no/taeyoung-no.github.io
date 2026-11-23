@@ -5,7 +5,7 @@ date: 2026-11-18 10:00:00 +0900
 
 ## 서론
 
-[Coupon System](https://github.com/taeyoung-no/CouponSystem) 프로젝트에서 쿠폰 발급 API의 동시성 문제 해결, 응답 지연 개선 경험을 정리했습니다.
+[Coupon System](https://github.com/taeyoung-no/coupon-system) 프로젝트에서 쿠폰 발급 API의 동시성 문제 해결, 응답 지연 개선 경험을 정리했습니다.
 
 ---
 

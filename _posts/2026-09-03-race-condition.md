@@ -4,7 +4,7 @@ date: 2026-09-03 20:00:00 +0900
 ---
 
 ## 서론
-[Feed App](https://github.com/taeyoung-no/FeedApp)의 좋아요 기능의 성능을 개선하고 동시성 문제를 해결한 경험을 정리했습니다.
+[Feed App](https://github.com/taeyoung-no/feed-app)의 좋아요 기능의 성능을 개선하고 동시성 문제를 해결한 경험을 정리했습니다.
 
 ---
 

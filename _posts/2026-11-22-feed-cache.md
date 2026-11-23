@@ -4,7 +4,7 @@ date: 2026-11-22 10:00:00 +0900
 ---
 
 ## 서론
-[Feed App](https://github.com/taeyoung-no/FeedApp) 프로젝트에서 인기글 조회 API의 성능을 개선한 경험을 정리했습니다.
+[Feed App](https://github.com/taeyoung-no/feed-app) 프로젝트에서 인기글 조회 API의 성능을 개선한 경험을 정리했습니다.
 
 ---
 
